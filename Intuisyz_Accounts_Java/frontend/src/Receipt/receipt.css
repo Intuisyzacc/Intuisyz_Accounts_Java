@@ -1,0 +1,17 @@
+.flexHeader {
+  display: flex;
+  align-items: center;
+}
+
+.flexHeader .HeaderLinksNew {
+  margin-left: auto;
+}
+.flexHeader .HeaderLinksNew .LinkBtn {
+  margin: 0 10px;
+}
+.flexHeader .HeaderLinksNew .LinkBtn i {
+  padding: 5px;
+}
+.react-datepicker-popper {
+  z-index: 10;
+}
